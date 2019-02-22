@@ -1,1 +1,1 @@
-# python
+# picture processing
